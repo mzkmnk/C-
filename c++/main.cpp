@@ -10,6 +10,6 @@ using namespace std;
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    cout << "Hello, World!!!!!z!" << endl;
+    cout << "Hello, World!!!!!z" << endl;
     return 0;
 }
